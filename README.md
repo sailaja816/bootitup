@@ -1,0 +1,2 @@
+# bootitup
+simple springboot application
